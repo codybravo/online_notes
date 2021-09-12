@@ -1,1 +1,0 @@
-PUT and PATCH method not implemnented.
