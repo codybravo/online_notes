@@ -7,7 +7,7 @@
 ```npm install```  
 ```npm run server```
 4. Open browser and type in Search Bar  -> ```localhost:3000```  
-5. You are done. 
+5. Hit enter and you are done. 
 
 
 
