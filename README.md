@@ -1,7 +1,7 @@
 # How to install and run
 1. install node.js  
 2. install git
-3. Open Terminal or Command Prompt and the follwing command  
+3. Open Terminal or Command Prompt and the run follwing command  
 ```git clone https://github.com/codybravo/online_notes.git```   
 ```cd online_notes```  
 ```npm install```  
