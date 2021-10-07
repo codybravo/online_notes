@@ -6,9 +6,8 @@
 ```cd online_notes```  
 ```npm install```  
 ```npm run server```
-4. Open browser and type in Search Bar  
-```localhost:3000```  
-You are done. 
+4. Open browser and type in Search Bar  -> ```localhost:3000```  
+5. You are done. 
 
 
 
